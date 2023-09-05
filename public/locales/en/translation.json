@@ -1,0 +1,13 @@
+{
+    "site": {
+        "goc": "Government of Canada",
+        "about": "About",
+        "privacy": "Privacy",
+        "toc": "Terms and conditions",
+        "home": "home"
+    },
+
+    "home": {
+        "title": "Home"
+    }
+}
